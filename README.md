@@ -1,4 +1,7 @@
 # YouTube_Trending_Dataset_Exploring
+THIS REPO ONLY HAS THE DATA ANALYSIS PART ,  IF YOU WANT THE DASHBOARD DESING FIND IT IN MY OTHER REPO HERE
+https://github.com/ahmednabih1/YouTube_Trending_Interactive_Dashboard
+
 In this project we explore the YouTube Trending Video Dataset (updated daily) from kaggle.
 
 About Dataset
